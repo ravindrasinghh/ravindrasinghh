@@ -1,5 +1,3 @@
-### 👋 ![](https://komarev.com/ghpvc/?username=ravindrasinghh&color=green) 
-
 Hi, I'm [RAVINDRA SINGH](https://www.linkedin.com/in/ravindra-singh-364211138/), a DevOps Engineer 🚀 from India-Pune, but I describes myself as a Technology Entusiast.
 
 ### Talking about Personal Stuffs
