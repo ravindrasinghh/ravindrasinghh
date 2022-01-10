@@ -12,8 +12,8 @@ Hi, I'm [RAVINDRA SINGH](https://www.linkedin.com/in/ravindra-singh-364211138/),
 
 ### :octocat: Github Statistics
 <p align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=developer-guy&show_icons=true&theme=radical" alt="developer-guy" width="480" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-guy&layout=compact&hide=html&theme=radical" alt="developer-guy"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=ravindrasinghh&show_icons=true&theme=radical" alt="ravindrasinghh" width="480" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindrasinghh&layout=compact&hide=html&theme=radical" alt="ravindrasinghh"/>
 </p>
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 
