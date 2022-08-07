@@ -11,3 +11,9 @@ Hi, I'm [RAVINDRA SINGH](https://www.linkedin.com/in/ravindra-singh-364211138/),
 # Ravindra Singh
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ravindrasinghh)](https://github.com/LordDashMe/github-contribution-stats)
+![My github stats](https://github-readme-stats.vercel.app/api?username=ravindrasinghh&show_icons=true) 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindrasinghh&label=Profile%20views&color=0e75b6&style=flat" alt="ravindrasinghh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravindrasinghh" alt="ravindrasinghh" /></a> </p>
