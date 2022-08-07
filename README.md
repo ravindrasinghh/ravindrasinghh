@@ -9,8 +9,6 @@ Hi, I'm [RAVINDRA SINGH](https://www.linkedin.com/in/ravindra-singh-364211138/),
 </p>
 
 # Ravindra Singh
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ravindrasinghh)](https://github.com/LordDashMe/github-contribution-stats)
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ravindrasinghh&show_icons=true) 
 
 
