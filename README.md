@@ -1,5 +1,3 @@
-Hi, I'm [RAVINDRA SINGH](https://www.linkedin.com/in/ravindra-singh-364211138/), a DevOps Engineer 🚀 from India-Pune, but I describes myself as a Technology Entusiast.
-
 ### Talking about Personal Stuffs
 - 🌱 I’m currently exploring and learning new things in technology.
 - ⚡ I love to play with new cli tools and technologies.
