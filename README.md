@@ -7,7 +7,7 @@
 </p>
 
 # Ravindra Singh
-![My github stats](https://github-readme-stats.vercel.app/api?username=ravindrasinghh&show_icons=true&theme=radical)
+![My github stats](https://github-readme-stats.vercel.app/api?username=ravindrasinghh&show_icons=true&theme=dracula)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindrasinghh&label=Profile%20views&color=0e75b6&style=flat" alt="ravindrasinghh" /> </p>
