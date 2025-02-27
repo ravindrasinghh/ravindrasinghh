@@ -1,7 +1,3 @@
-### Talking about Personal Stuffs
-- 🌱 I’m currently exploring and learning new things in technology.
-- ⚡ I love to play with new cli tools and technologies.
-
 ### Hey there! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub!;I+am+Ravindra+Singh!;Senior+DevOps+Engineer)](https://git.io/typing-svg)
