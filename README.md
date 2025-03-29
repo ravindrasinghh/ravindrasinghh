@@ -22,7 +22,7 @@
 
 ### 🔥 Connect with Me
 
-<a href="http://yt.openinapp.co/codedevops">
+<a href="https://www.youtube.com/@codedevopss">
   <img alt="YouTube" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
