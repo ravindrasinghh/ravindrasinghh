@@ -30,9 +30,6 @@
   <img alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ravindrasinghh.github.io/">
-  <img alt="Website" width="30px" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" />
-</a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect!)](https://git.io/typing-svg)
 
