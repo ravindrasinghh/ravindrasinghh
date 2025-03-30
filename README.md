@@ -37,7 +37,7 @@
 
 ### 📢 Featured Content
 🚀 Check out my latest content:
-- 📹 **YouTube Channel:** [CodeDevOps]([http://yt.openinapp.co/codedevops](https://www.youtube.com/@codedevops)) 🎥
+- 📹 **YouTube Channel:** [CodeDevOps](https://www.youtube.com/@codedevops) 🎥
 - ✍ **Latest Blog:** [Cloud & DevOps Insights](https://ravindrasinghh.github.io/)
 - 💡 **AWS Meetup Initiatives** at [AWS User Group Kanpur](https://www.meetup.com/aws-user-group-kanpur/)
 
